@@ -14,11 +14,6 @@ export default function Scrollnav() {
                 </a>
             </li>
             <li>
-                <a className="scroll-to" href="#resume">
-                    <span>Resume</span> <i className="las la-briefcase"></i>
-                </a>
-            </li>
-            <li>
                 <a className="scroll-to" href="#skills">
                     <span>Skills</span> <i className="las la-shapes"></i>
                 </a>

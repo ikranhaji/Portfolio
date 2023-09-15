@@ -31,11 +31,6 @@ export default function Rsidemenu() {
                                 </a>
                             </li>
                             <li>
-                                <a className="scroll-to" href="#resume" onClick={removeActive}>
-                                    <i className="las la-briefcase"></i> <span>Resume</span>
-                                </a>
-                            </li>
-                            <li>
                                 <a className="scroll-to" href="#skills" onClick={removeActive}>
                                     <i className="las la-shapes"></i> <span>Skills</span>
                                 </a>
