@@ -35,7 +35,7 @@ export default function Portfolio() {
                         <div className="col-md-12 scroll-animation" data-aos='fade-up'>
                             <div className="portfolio-item portfolio-full">
                                 <div className="portfolio-item-inner">
-                                    <a href="https://gitlab.com/ikranhaji/wander-wise"><img src="../assets/images/wanderwise.png" alt="Portfolio" /></a>
+                                    <a href="https://gitlab.com/ikranhaji/wander-wise"><img src="../portfolio/assets/images/wanderwise.png" alt="Portfolio" /></a>
                                 </div>
                             </div>
                         </div>
@@ -50,7 +50,7 @@ export default function Portfolio() {
                             <div className="portfolio-item portfolio-half">
                                 <div className="portfolio-item-inner">
                                     <a href="https://gitlab.com/ikranhaji/drivencare">
-                                        <img src="../assets/images/drivencare.png" alt="portfolio" />
+                                        <img src="../portfolio/assets/images/drivencare.png" alt="portfolio" />
                                     </a>
                                 </div>
                             </div>
@@ -64,7 +64,7 @@ export default function Portfolio() {
                                 a breeze.</p>
                             <div className="portfolio-item portfolio-half">
                                 <div className="portfolio-item-inner">
-                                    <a href="https://gitlab.com/ikranhaji/connectcon"><img src="../assets/images/connectcon.png" alt="portfolio" />
+                                    <a href="https://gitlab.com/ikranhaji/connectcon"><img src="../portfolio/assets/images/connectcon.png" alt="portfolio" />
                                     </a>
                                 </div>
 

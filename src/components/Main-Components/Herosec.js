@@ -23,7 +23,7 @@ export default function Herosec() {
                     <a href="#portfolio"
                         className="go-to-project-btn scroll-to scroll-animation"
                         data-aos='fade-up'>
-                        <img src="../assets/images/round-text.png" alt="Rounded Text" />
+                        <img src="../portfolio/assets/images/round-text.png" alt="Rounded Text" />
                         <i className="las la-arrow-down"></i>
                     </a>
                 </div>

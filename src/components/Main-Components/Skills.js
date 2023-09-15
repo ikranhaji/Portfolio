@@ -29,7 +29,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-down'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/javascript.png" alt="Webflow" />
+                                    <img src="../portfolio/assets/images/javascript.png" alt="Webflow" />
 
                                 </div>
                                 <p className="name">JavaScript</p>
@@ -38,7 +38,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-left'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/reactpic.png" alt="React" />
+                                    <img src="../portfolio/assets/images/reactpic.png" alt="React" />
                                 </div>
                                 <p className="name">React</p>
                             </div>
@@ -46,7 +46,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-right'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/django.png" alt="WordPress" />
+                                    <img src="../portfolio/assets/images/django.png" alt="WordPress" />
                                 </div>
                                 <p className="name">Django</p>
                             </div>
@@ -54,7 +54,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/fastapi.png" alt="Laravel/PHP" />
+                                    <img src="../portfolio/assets/images/fastapi.png" alt="Laravel/PHP" />
                                 </div>
                                 <p className="name">FastAPI</p>
                             </div>
@@ -62,7 +62,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/html.png" alt="Laravel/PHP" />
+                                    <img src="../portfolio/assets/images/html.png" alt="Laravel/PHP" />
                                 </div>
                                 <p className="name">HTML5</p>
                             </div>
@@ -70,7 +70,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/css.png" alt="Laravel/PHP" />
+                                    <img src="../portfolio/assets/images/css.png" alt="Laravel/PHP" />
                                 </div>
                                 <p className="name">CSS</p>
                             </div>
@@ -78,7 +78,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/redux.png" alt="Laravel/PHP" />
+                                    <img src="../portfolio/assets/images/redux.png" alt="Laravel/PHP" />
                                 </div>
                                 <p className="name">Redux</p>
                             </div>
@@ -86,7 +86,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/postgresql.png" alt="Laravel/PHP" />
+                                    <img src="../portfolio/assets/images/postgresql.png" alt="Laravel/PHP" />
                                 </div>
                                 <p className="name">PostgreSQL</p>
                             </div>
@@ -94,7 +94,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/mongo.png" alt="Laravel/PHP" />
+                                    <img src="../portfolio/assets/images/mongo.png" alt="Laravel/PHP" />
                                 </div>
                                 <p className="name">MongoDB</p>
                             </div>
@@ -102,7 +102,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/bootstrap.png" alt="Laravel/PHP" />
+                                    <img src="../portfolio/assets/images/bootstrap.png" alt="Laravel/PHP" />
                                 </div>
                                 <p className="name">Bootstrap</p>
                             </div>
@@ -110,7 +110,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/rabbitmq.png" alt="Laravel/PHP" />
+                                    <img src="../portfolio/assets/images/rabbitmq.png" alt="Laravel/PHP" />
                                 </div>
                                 <p className="name">RabbitMQ</p>
                             </div>
