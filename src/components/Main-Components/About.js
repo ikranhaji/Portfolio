@@ -21,7 +21,7 @@ export default function About() {
                         I initially aspired to become a social worker because I wanted to help people, especially those who,
                         like me, had started with very little. I pursued this passion and became a social worker for a while,
                         making a positive impact on individuals and communities in need.</p>
-                    <p>However, destiny had other plans for me. As I settled into my new environment,
+                    <p> As I settled into my new environment,
                         I began exploring various interests, and it was during this time that I stumbled upon coding.
                         I started playing around with programming languages and building small projects, and before I knew it,
                         I was completely captivated by the world of web development. The ability to create digital solutions that
