@@ -21,7 +21,7 @@ export default function Skills() {
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/python.png" alt="Framer" />
+                                    <img src="../portfolio/assets/images/python.png" alt="Framer" />
                                 </div>
                                 <p className="name">Python</p>
                             </div>
